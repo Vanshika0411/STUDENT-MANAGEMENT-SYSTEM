@@ -1,4 +1,4 @@
-# STUDENT-MANAGEMENT-SYSTEM
+# STUDENT-MANAGEMENT-SYSTEM(Mysql-connected)
 Project Description:
 The Student Management System (SMS) is a desktop or web application designed to manage student records effectively. The system allows users to perform CRUD (Create, Read, Update, Delete) operations on student data, including details such as name, roll number, grades, and courses. The backend is powered by MySQL, enabling robust and efficient data storage and retrieval.
 
@@ -34,4 +34,4 @@ Python (using libraries like mysql-connector-python)
 Or PHP for web-based systems.
 Database:
 
-MySQL for storing student data...\
+MySQL for storing student data...
